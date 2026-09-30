@@ -1,0 +1,148 @@
+{
+  "channel": {
+    "name": "Odisseia Mundana",
+    "instagram": "@odisseiamundana",
+    "creators": [
+      {
+        "name": "Igor",
+        "nationality": "Brasileiro"
+      },
+      {
+        "name": "Maia",
+        "nationality": "Polonesa"
+      }
+    ],
+    "timeline": {
+      "met_year": 2016,
+      "married_year": 2018,
+      "motorhome_project_year": 2019,
+      "brazil_expedition_start": "2019-07",
+      "residence_in_poland_years": 3
+    }
+  },
+  "motorhome": {
+    "vehicle": "Van Iveco Daily",
+    "build_type": "Artesanal / Faça Você Mesmo (DIY)",
+    "resources_shared": [
+      "Planilha de custos de montagem",
+      "Planilha para dimensionamento do sistema fotovoltaico (cálculo de placas, baterias e instalação)"
+    ],
+    "discounts_and_partners": [
+      {
+        "partner": "Finestra K",
+        "category": "Janelas",
+        "discount": "15%"
+      },
+      {
+        "partner": "Loja do Barco",
+        "category": "Peças hidráulicas",
+        "discount": "Cupom de desconto"
+      }
+    ]
+  },
+  "brazil_expedition": {
+    "duration_months": 6,
+    "departure_city": "São Paulo",
+    "status": "Concluída e motorhome vendido",
+    "destinations": {
+      "southeast": [
+        {
+          "state": "Minas Gerais",
+          "cities": [
+            "Ouro Branco",
+            "Ouro Preto"
+          ]
+        },
+        {
+          "state": "Espírito Santo",
+          "locations": [
+            "Vila de Itaúnas"
+          ]
+        }
+      ],
+      "northeast": [
+        {
+          "state": "Bahia",
+          "highlights": [
+            "Costa do Descobrimento",
+            "Chapada Diamantina",
+            "Itacaré"
+          ]
+        },
+        {
+          "state": "Alagoas",
+          "highlights": [
+            "Maragogi"
+          ]
+        },
+        {
+          "state": "Pernambuco",
+          "highlights": [
+            "Porto de Galinhas"
+          ]
+        },
+        {
+          "state": "Paraíba",
+          "highlights": [
+            "João Pessoa"
+          ]
+        },
+        {
+          "state": "Rio Grande do Norte",
+          "highlights": [
+            "Natal"
+          ]
+        },
+        {
+          "state": "Ceará",
+          "highlights": [
+            "Jericoacoara"
+          ]
+        },
+        {
+          "state": "Maranhão",
+          "highlights": [
+            "Lençóis Maranhenses"
+          ]
+        }
+      ],
+      "central_west_and_north": [
+        {
+          "state": "Tocantins",
+          "highlights": [
+            "Jalapão"
+          ]
+        },
+        {
+          "state": "Goiás",
+          "highlights": [
+            "Chapada dos Veadeiros"
+          ]
+        },
+        {
+          "state": "Mato Grosso",
+          "highlights": [
+            "Pantanal"
+          ]
+        }
+      ]
+    }
+  },
+  "europe_and_poland_phase": {
+    "current_residence": "Polônia",
+    "countries_visited": [
+      "Polônia",
+      "Croácia",
+      "Itália",
+      "França",
+      "Espanha",
+      "Turquia",
+      "Portugal"
+    ],
+    "content_focus": [
+      "Roteiros e viagens pela Europa",
+      "Cultura, curiosidades e vida na Polônia",
+      "Dicas e guias para quem quer visitar ou morar na Polônia"
+    ]
+  }
+}
